@@ -1,5 +1,5 @@
 /*file:trolley.c*/
 #include <stdio.h>
 
-int main(){
+int main() {
 printf ("give cost of going left");
