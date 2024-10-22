@@ -5,6 +5,7 @@ Byte3:programmers
 Byte4:you_just_found_the_triwizard_cup
 Byte5:sdi2400048_1729331492_-547458880_195_134_65_83_57666_22
 Byte6:unzipping_was_never_so_easy
+Byte7:tar_jokes_dont_stick
 Byte8:no_more_secrets_from_you
 Byte9:filepaths_can_be_useful
 Byte10:Adorne
