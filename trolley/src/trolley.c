@@ -22,8 +22,8 @@ while (1) {
  } 
  printf ("give cost of going left: ");
 if( scanf("%lld", &cl) != 1 ) {
-    printf("No right cost provided.\n");
-    return 1;
+    printf("Terminating.\n");
+    return 0;
   }
  printf ("give cost of going right: ");
  if( scanf("%lld", &cr) != 1 ) {
