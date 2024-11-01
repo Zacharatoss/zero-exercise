@@ -5,14 +5,12 @@ int main() {
 long long int  cl;
 long long int  cr;
 printf ("give cost of going left: ");
-scanf ("%lld", &cl);
-if( cl != 1 ) {
+if( scanf ("%lld", &cl) != 1 ) {
     printf("terminating.\n");
     return 0;
   }
 printf ("give cost of going right: ");
-scanf ("%lld", &cr);
-if( cr != 1 ) {
+if( scanf ("%lld", &cr) != 1 ) {
     printf(" No right cost provided.\n");
     return 1;
   }
