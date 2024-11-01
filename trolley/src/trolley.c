@@ -6,12 +6,12 @@ long long int  cl;
 long long int  cr;
 printf ("give cost of going left: ");
 if( scanf ("%lld", &cl) != 1 ) {
-    printf("terminating.\n");
+    printf("Terminating.\n");
     return 0;
   }
 printf ("give cost of going right: ");
 if( scanf ("%lld", &cr) != 1 ) {
-    printf(" No right cost provided.\n");
+    printf("No right cost provided.\n");
     return 1;
   }
 while (1) {
@@ -22,8 +22,8 @@ while (1) {
  } 
  printf ("give cost of going left: ");
 if( scanf("%lld", &cl) != 1 ) {
-    printf("terminating.\n");
-    return 0;
+    printf("No right cost provided.\n");
+    return 1;
   }
  printf ("give cost of going right: ");
  if( scanf("%lld", &cr) != 1 ) {
