@@ -20,7 +20,7 @@ sys     0m0,115s
 
 #### Examples 
 
-Give cost of going left: 10 
+# Give cost of going left: 10 
 
 Give cost of going right: 100
 
