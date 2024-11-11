@@ -23,6 +23,7 @@ sys     0m0,115s
 ΄΄΄ Give cost of going left: 10 
 ''' Give cost of going right: 100
 Go left
+ 
 
  Give cost of going left: 41
 
