@@ -5,6 +5,11 @@ This project can read the cost of two options, going left and going right, and d
 #### Usage
 
 You can use this project by compiling: gcc -O0 -m32 -Wall -Wextra -Werror -pedantic -o trolley trolley.c
+
 And then: ./trolley
 
+
 When the code is running it will ask for the two costs and provide the anserwes until using ctrl+D
+
+
+To see the time it took to complete the 10000 repeats use: time ./trolley < numbers.txt 
